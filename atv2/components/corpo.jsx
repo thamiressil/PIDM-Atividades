@@ -5,7 +5,7 @@ export default class Corpo extends Component {
     render() {
         return (
             <View>
-                <Image source={require('../assets/thamires-pnj')} style={{width:100, height: 100}}/>
+                <Image source={require('../assets/thamires-pnj.JPG')} style={{width:100, height: 100}}/>
             </View>
         );
     }
